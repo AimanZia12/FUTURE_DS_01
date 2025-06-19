@@ -72,7 +72,7 @@ The goal of this project is to help business owners in making decisions by analy
 
 
 # REPOSITORY STRUCTURE-
-•	Data- <a href"https://github.com/AimanZia12/FUTURE_DS_01/blob/main/superstore.csv"/</a>
+•	Data- https://github.com/AimanZia12/FUTURE_DS_01/blob/main/superstore.csv
 
 •	Dashboard- Power BI file of the project.
 
