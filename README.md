@@ -76,8 +76,7 @@ The goal of this project is to help business owners in making decisions by analy
 
 •	Dashboard- https://github.com/AimanZia12/FUTURE_DS_01/blob/main/Superstore%20Power%20BI%20Dashboard.pbix
 
-•	Images- ![DashBoard](https://github.com/user-attachments/assets/ba58104b-b7be-428b-8dd4-d185535734f9)
-
+•	Images- ![Screenshot (92)](https://github.com/user-attachments/assets/a09a828a-dc1b-40cb-91a8-679a5187dd79)
 
 
 
